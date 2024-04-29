@@ -1,0 +1,182 @@
+body{
+    font-family: Nunito,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-weight: 300;
+    line-height: 1.6;
+}
+.header{
+    height:500px;
+    width: auto;
+    background-color: #08003a
+}
+.link{
+    padding-top: 7em;
+}
+.search-block h1{
+    color: #fff;
+    font-weight: 400;
+    font-stretch: expanded;
+    letter-spacing: 2px;
+    
+}
+.input-box{
+    width: 20em;
+    height: 3em;
+    padding: 1em;
+    border-radius: 0.5rem;
+    outline: none;
+    border: none;
+}
+.btn-download{
+    width: 8em;
+    height: 3em;
+    padding: 0.5em;
+    outline: none;
+    border: none;
+    background-color: rgb(220, 53, 63);
+    border-radius: 0.5rem;
+    color: #fff;
+    cursor: pointer;
+
+    
+
+}
+.arrow{
+    padding-left: 0.5em;
+}
+.search{
+    background-color: #fff;
+    height: 4em;
+    width: 29.5em;
+    padding: 0.5em;
+    border-radius: 0.5rem;
+    
+}
+.media-body{
+    font-size: 1rem;
+    color: #717274;
+    text-align: left;
+    background-color: #fff;
+    font-family: Nunito,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-weight: 300;
+    line-height: 1.6;
+    margin-left: 4em;
+}
+.first-p{
+    margin-left: 5em;
+    margin-top: 2em;
+}
+.supp-text{
+    color: #717274;
+    margin-top: 2em;
+}
+.mp4{
+    background-color: #08003a;
+    color: #fff;;
+}
+.quality .text-center{
+    color: #212529;
+    font-family: Nunito,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-weight: 400;
+    line-height: 1.6;
+}
+.footer{
+    background-color: #000;;
+}
+.footer .footer1{
+    color: #ced4da
+
+}
+.insta{
+    text-decoration: none;
+    cursor: pointer;
+    color: #20c997;
+}
+.facebook{
+    text-decoration: none;
+    cursor: pointer;
+    color: #20c997;
+}
+.twitter{
+    color: #20c997;
+    cursor: pointer;
+    text-decoration: none;
+}
+.privacy{
+    color: #20c997;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+.terms{
+    color: #20c997;
+    cursor: pointer;
+    text-decoration: none;
+}
+.contact{
+    color: #20c997;
+    cursor: pointer;
+    text-decoration: none;
+}
+.save1{
+    color: #20c997;
+    cursor: pointer;
+    text-decoration: none;
+}
+.save2{
+    color: #20c997;
+    cursor: pointer;
+    text-decoration: none;
+}
+.about{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.about:hover{
+    color: white;
+}
+.youtube{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.tiktok{
+    margin-left: 9px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.youtube:hover{
+    color: white;
+}
+.tiktok:hover{
+    color: white;
+}
+.save1:hover{
+    color: #20c997;
+}
+.save2:hover{
+    color: #20c997;
+}
+.contact:hover{
+    color: #20c997;
+}
+.terms:hover{
+    color: #20c997;
+}
+.privacy:hover{
+    color: #20c997;
+}
+.insta:hover{
+    color: #20c997;
+}
+.twitter:hover{
+    color: #20c997;
+}
+.facebook:hover{
+    color: #20c997;
+}
+.col-header-name{
+    margin-left: 2px;
+    color: #fff;
+}
