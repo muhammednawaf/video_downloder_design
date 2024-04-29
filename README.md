@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file for your website video downloader designed using pure HTML, CSS, and JavaScript:
-
----
 
 # Website Video Downloader
 
