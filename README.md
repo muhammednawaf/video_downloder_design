@@ -13,7 +13,7 @@ To use the website video downloader, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/website-video-downloader.git
+    gh repo clone muhammednawaf/video_downloder_design
     ```
 
 2. Open the `index.html` file in your preferred web browser.
@@ -29,6 +29,6 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 ## Demo View
 
-You can view a live demo of the Demo [https://muhammednawaf.github.io/video_downloder_design/](Click Here)
+You can view a live demo of the Demo [Click Here](https://muhammednawaf.github.io/video_downloder_design/)
 
 Feel free to customize this README file with any additional information specific to your project or implementation details.
